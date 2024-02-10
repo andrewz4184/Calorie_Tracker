@@ -7,6 +7,11 @@ The Calorie Tracker Web App is designed to help users track their daily caloric 
 Food search functionality
 Detailed nutritional information (Carbohydrates, Chlosterol, Fat, Protein, etc.) 
 Daily caloric intake tracking (In progress) 
+
+<img width="1395" alt="image" src="https://github.com/andrewz4184/Calorie_Tracker/assets/69803093/974a38fb-72b2-4af9-87d9-ee1093a538bc">
+
+<img width="792" alt="image" src="https://github.com/andrewz4184/Calorie_Tracker/assets/69803093/d8d8a1d9-95e1-4efb-9a06-c7a82c9d7f3e">
+
 **1.3 Technologies Used**
 Django (Backend)
 HTML, CSS, JavaScript (Frontend)
